@@ -3,11 +3,11 @@ A collection of scripts for using various packages school containers to do all t
 
 ## Things school can do:
 
-[x] Scaffold a Docker Swarm
-[x] Scaffold a Postgres cluster
-[x] Scaffold the basic requirements for winning with MicroServices (API Gateway (Kong), Messaging (PubSub + sockets), Secret management (Hashicorp Vault))
-[x] Scaffold and deploy microservices easily
-[ ] Scaffold a Kube cluster
+- [x] Scaffold a Docker Swarm
+- [x] Scaffold a Postgres cluster
+- [x] Scaffold the basic requirements for winning with MicroServices (API Gateway (Kong), Messaging (PubSub + sockets), Secret management (Hashicorp Vault))
+- [x] Scaffold and deploy microservices easily
+- [ ] Scaffold a Kube cluster
 
 ## Getting started
 
